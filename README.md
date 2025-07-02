@@ -1,2 +1,2 @@
-# sistema-agendamento-consultas
-Sistema de Agendamento de Consultas Médicas para a disciplina de Engenharia de Software - UFT
+# agendamento-facil-kauan
+Funcionalidades D2 e D4 do Sistema de Agendamento Fácil para Engenharia de Software - UFT
