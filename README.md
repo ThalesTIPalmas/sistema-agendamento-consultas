@@ -10,7 +10,7 @@ O principal objetivo é demonstrar a aplicação de conceitos de Engenharia de S
 * *Universidade:* Universidade Federal do Tocantins (UFT)
 * *Curso:* Ciências da Computação
 * *Disciplina:* Engenharia de Software
-* *Semestre:* 2024/1
+* *Semestre:* 2025/1
 * *Professor:* Prof. Dr. Edeilson Milhomem Silva
 * *Integrantes do Time:*
     * *Thales:* Líder do Projeto e Desenvolvedor Principal (Responsável pelas funcionalidades D1, D3, D5).
